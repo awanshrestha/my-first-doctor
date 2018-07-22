@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Icons/contactsIcon.jpg</file>
+        <file>Images/Icons/FIrstAid.jpg</file>
+        <file>Images/Icons/MainIcon.jpg</file>
+        <file>Images/Icons/medicalIcon.jpg</file>
+        <file>Images/Icons/TopLogo.JPG</file>
+        <file>Images/Icons/FoodIcon.JPG</file>
+        <file>Images/Icons/AMBULANCE.jpg</file>
+        <file>Images/Icons/Hospital.jpg</file>
+        <file>Images/Icons/Blood bank.jpg</file>
+        <file>Images/Icons/bleeding.jpg</file>
+        <file>Images/Icons/Burns.jpg</file>
+        <file>Images/Icons/drowning.jpg</file>
+        <file>Images/Icons/electric shock.jpg</file>
+        <file>Images/Icons/hypothermia.jpg</file>
+        <file>Images/Icons/leech bite.jpg</file>
+        <file>Images/Icons/snake bite.jpg</file>
+        <file>Images/Icons/Stroke.jpg</file>
+        <file>Images/Icons/Toothache.jpg</file>
+        <file>Images/Icons/Wound.jpg</file>
+        <file>Images/Icons/SPRAIN.jpg</file>
+        <file>Images/Icons/DiseaseIcon.jpg</file>
+    </qresource>
+</RCC>
